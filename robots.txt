@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vaudemar.github.io/docs-7jnep7/sitemap.xml
